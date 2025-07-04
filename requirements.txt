@@ -1,0 +1,6 @@
+google-generativeai
+python-telegram-bot
+flask
+pydub
+requests
+flask-cors
